@@ -19,7 +19,7 @@
 
 
 // Personal includes
-#include "includes/settings.dtsi"
+//#include "includes/settings.dtsi"
 #include "includes/behaviours_homerow_mods.dtsi"
 
 
