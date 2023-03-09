@@ -18,6 +18,11 @@
 #define MS 5
 
 
+// Personal includes
+#include "includes/settings.dtsi"
+#include "includes/behaviours_homerow_mods.dtsi"
+
+
 / {
     /* remove unused keys from layout and move thumb cluster to bottom */
     chosen {
