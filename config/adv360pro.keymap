@@ -45,19 +45,6 @@
             >;
         };
 
-        colemak_layer {
-            bindings = <
-                ___       ___       ___       ___       ___       ___       ___            ___       ___       ___       ___       ___       ___       ___
-                ___       &kp Q     &kp W     &kp F     &kp P     &kp B     ___            ___       &kp J     &kp L     &kp U     &kp Y     &kp SQT   &kp BSLH
-                ___       &kp A     &kp R     &kp S     &kp T     &kp G     ___            ___       &kp M     &kp N     &kp E     &kp I     &kp O     &kp FSLH
-                ___       &kp Z     &kp X     &kp C     &kp D     &kp V                              &kp K     &kp H     &kp COMMA &kp DOT   &kp SEMI  ___
-                ___       ___       ___       ___       ___                                                    ___       ___       ___       ___       ___
-                                                                  ___       ___            ___       ___
-                                                        ___       ___       ___            ___       ___       ___
-                                                                            ___            ___
-            >;
-        };
-
         keypad {
             bindings = <
                 ___       ___       ___       ___       ___       ___       ___            ___       ___       &kp KP_NUM &kp KP_EQUAL &kp KP_DIVIDE &kp KP_MULTIPLY ___
