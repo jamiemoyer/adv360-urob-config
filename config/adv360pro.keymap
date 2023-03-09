@@ -34,7 +34,7 @@
                 &kp LSHFT &kp Z     &kp X     &kp C     &kp V     &kp B                              &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH  &kp RSHFT
                 &mo FN    &kp GRAVE &kp CAPS  &kp LEFT  &kp RIGHT                                              &kp UP    &kp DOWN  &kp LBKT  &kp RBKT  &mo FN
                                                                   &kp LCTRL &kp LALT       &kp LGUI  &kp RCTRL
-                                                        &kp BSPC  &kp DEL   &kp LEFT_ARROW       &kp UP_ARR0W &kp ENTER &kp SPACE
+                                                        &kp BSPC  &kp DEL   &kp LEFT_ARROW       &kp UP_ARROW &kp ENTER &kp SPACE
                                                                             &kp RIGHT_ARROW        &kp DOWN_ARROW
             >;
         };
