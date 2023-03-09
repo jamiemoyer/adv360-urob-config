@@ -33,8 +33,8 @@
                 &kp ESC   &kp A     &kp S     &kp D     &kp F     &kp G     &to COLEMAK    &none     &kp H     &kp J     &kp K     &kp L     &kp SEMI  &kp SQT
                 &kp LSHFT &kp Z     &kp X     &kp C     &kp V     &kp B                              &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH  &kp RSHFT
                 &mo FN    &kp GRAVE &kp CAPS  &kp LEFT  &kp RIGHT                                              &kp UP    &kp DOWN  &kp LBKT  &kp RBKT  &mo FN
-                                                                  &kp LCTRL &kp LALT       &kp LGUI  &kp RCTRL
-                                                        &kp BSPC  &kp DEL   &kp LEFT_ARROW       &kp UP_ARROW &kp ENTER &kp SPACE
+                                                                  &kp LCMD &kp LCTRL       &kp RCTRL  &kp RCMD
+                                                        &kp SPACE  &kp DEL   &kp LEFT_ARROW       &kp UP_ARROW &kp ENTER &kp BSPC
                                                                             &kp RIGHT_ARROW        &kp DOWN_ARROW
             >;
         };
