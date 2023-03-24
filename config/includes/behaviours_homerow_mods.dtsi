@@ -11,6 +11,19 @@
 / {
 
     behaviors {
+        // hold-tap for me...testing
+        ht_j: hold_tap_j {
+            compatible = "zmk,behavior-hold-tap";
+            label = "HOLD_TAP_J";
+            #binding-cells = <2>;
+            bindings = <&kp>,  <&kp>;
+            flavor = "balanced";
+            tapping-term-ms = <HM_TAPPING_TERM>;
+            quick-tap-ms = <175>;                // repeat on tap-into-hold
+            global-quick-tap-ms = <150>;         // requires PR #1387
+            hold-trigger-on-release;             // requires PR #1423
+        };
+
 
         // Positional Homerow mods
         // Homerow mods that prevent accidental activations when rolling keys,
