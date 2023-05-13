@@ -11,11 +11,10 @@
 #define ___ &trans
 
 #define QWERTY 0
-#define COLEMAK 1
-#define KEYPAD 2
-#define FN 3
-#define MOD 4
-#define MS 5
+#define KEYPAD 1
+#define FN 2
+#define MOD 3
+#define MS 4
 
 
 // Personal includes
