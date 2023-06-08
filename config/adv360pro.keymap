@@ -38,7 +38,7 @@
                 &kp ESC   &hm_l LCTRL A     &hm_l LALT S     &hm_l LCMD D     &hm_shift_l LSHIFT F     &kp G   &kp END    &kp PG_DN     &kp H     &hm_shift_r RSHIFT J     &hm_r RCMD K     &hm_r RALT L     &hm_r RCTRL SEMI  &kp SQT
                 &kp LSHFT &kp Z     &kp X     &kp C     &kp V     &kp B                              &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH  &kp ENTER
                 &mo FN    &kp GRAVE &kp CAPS  &kp LEFT  &kp RIGHT                                              &kp UP    &kp DOWN  &kp LBKT  &kp RBKT  &mo FN
-                                                                  &kp LCMD &kp LOPT       &kp ROPT  &kp RCMD
+                                                                  &kp LCMD &kp RALT       &kp RALT  &kp RCMD
                                                         &kp SPACE  &kp DEL   &kp LEFT_ARROW       &kp UP_ARROW &kp ENTER &kp BSPC
                                                                             &kp RIGHT_ARROW        &kp DOWN_ARROW
             >;
